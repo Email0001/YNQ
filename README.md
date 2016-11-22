@@ -2,9 +2,9 @@
 Yes, No or another Question
 
 (1) What is the philosophy behind this project?
-Inspired by Wolframe's book, "A New Kind Of Science", complexity could come from simple rule.
-Do we find the simple rule that can generate complexity?
-I want this project is based on simple rule and persistantly generates complexity effects.
+  Inspired by Wolframe's book, "A New Kind Of Science", complexity could come from simple rule.
+  Do we find the simple rule that can generate complexity?
+  I want this project is based on simple rule and persistantly generates complexity effects.
 
 (2) What is the simple rule of this project?
 You have three choices: respond to others' question with 'Y', respond to others' question with 'N' or ask another question.
