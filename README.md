@@ -5,7 +5,7 @@ Yes, No or another Question
 
   Inspired by Wolframe's book, "A New Kind Of Science", complexity could come from simple rule.
   Do we find the simple rule that can generate complexity?
-  I want this project is based on simple rule and persistantly generates complexity effects.
+  I want this project to be based on simple rule and persistantly generate complexity effects.
 
 (2) What is the simple rule of this project?
 You have three choices: respond to others' question with 'Y', respond to others' question with 'N' or ask another question.
