@@ -9,9 +9,9 @@ Yes, No or another Question
 
 2. What is the simple rule of this project?
 
-You have three choices: respond to others' question with 'Y', respond to others' question with 'N' or ask another question.
+  You have three choices: respond to others' question with 'Y', respond to others' question with 'N' or ask another question.
 
-And it's better to follow Twitter's established simple rule: keep your question in 140 words.
+  And it's better to follow Twitter's established simple rule: keep your question in 140 words.
 
 (3) What is the problem this project want to solve?
 The information society is becoming overloaded noisily wordy.
