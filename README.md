@@ -13,10 +13,11 @@ Yes, No or another Question
 
   And it's better to follow Twitter's established simple rule: keep your question in 140 words.
 
-(3) What is the problem this project want to solve?
-The information society is becoming overloaded noisily wordy.
-People respond quickly without holding on thinking.
-If we want to think more, understand more, we need to ask more questions.
+3. What is the problem this project want to solve?
+
+  The information society is becoming overloaded noisily wordy.
+  People respond quickly without holding on thinking.
+  If we want to think more, understand more, we need to ask more questions.
 
 (4) What is the right answer?
 Unlike shoes and clothes once bought the right one, there is no need to keep buying, questions need to keep questioning instead of stoping at the right answer.
