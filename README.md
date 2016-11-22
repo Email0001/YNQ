@@ -23,4 +23,8 @@ Yes, No or another Question
 
   Unlike shoes and clothes once bought the right one, there is no need to keep buying, questions need to keep questioning instead of stoping at the right answer.
 
-5. What if you could but think in questions?
+5. What does this project want to be?
+
+  A platform for people to discuss, discover, express in questions. Let adults ask questions as more as children.
+
+6. What if you could but think in questions?
