@@ -19,5 +19,8 @@ Yes, No or another Question
   People respond quickly without holding on thinking.
   If we want to think more, understand more, we need to ask more questions.
 
-(4) What is the right answer?
-Unlike shoes and clothes once bought the right one, there is no need to keep buying, questions need to keep questioning instead of stoping at the right answer.
+4. What is the right answer?
+
+  Unlike shoes and clothes once bought the right one, there is no need to keep buying, questions need to keep questioning instead of stoping at the right answer.
+
+5. What if you could but think in questions?
