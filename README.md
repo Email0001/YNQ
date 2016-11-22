@@ -27,4 +27,10 @@ Yes, No or another Question
 
   A platform for people to discuss, discover, express in questions. Let adults ask questions as more as children.
 
-6. What if you could but think in questions?
+6. What does this project want to know?
+
+  What if you could but think in questions?
+
+7. Where to start from?
+
+ For example, introduce your self in three questions or ask three questions about this project. You could use Github's any feature to post a question, ie. code, issue, comment, wiki, etc.
